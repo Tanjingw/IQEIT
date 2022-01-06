@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Institute of Quantitative Economic Information Technology
+title: IQEIT
 
 # Is this the primary user of the site?
 superuser: true

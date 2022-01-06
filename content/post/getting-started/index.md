@@ -45,6 +45,6 @@ Due to the specificity of China's dualistic household registration system and th
 
 ## URL
 
-[Check out to arXiv](https://arxiv.org/abs/2112.07268)
+(https://arxiv.org/abs/2112.07268)
 
 
